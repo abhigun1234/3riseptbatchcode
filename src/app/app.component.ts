@@ -7,8 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  name="ravi"
   //declaring variable for demoing pipis
-  name="abhishek"
+  //name="abhishek"
   //creating object for demoing json pipe
   public person ={
     "firstname":"abhishek",
